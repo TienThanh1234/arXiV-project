@@ -67,8 +67,8 @@
   },
   {
     "Requirement": "Build, workflow and repository separation",
-    "Status": "PARTIAL",
+    "Status": "PASS",
     "Evidence": ".github/workflows/deploy.yml; .gitignore; .gitattributes; README.md",
-    "Remaining action": "Separate publishing checkouts are prepared against NMKHDL_Project_09/24127121 and arXiV-project/main. Local build/static validation is performed before staging; commits, pushes and deployment await explicit approval."
+    "Remaining action": "Both approved repositories are published on the required branches. Pages uses GitHub Actions; deployment and public homepage/M1/M2/audit/Colab content checks passed. Missing corpus work and Colab measurements remain separately identified above."
   }
 ]

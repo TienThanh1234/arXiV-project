@@ -4,7 +4,7 @@ The cumulative **Milestone 1: Crawling** and **Milestone 2: Hierarchical Parsing
 
 - Report repository: [TienThanh1234/arXiV-project](https://github.com/TienThanh1234/arXiV-project), branch `main`.
 - Source implementation: [NMKHDL_Project_09, branch 24127121](https://github.com/ndkhoi2407/NMKHDL_Project_09/tree/24127121).
-- Intended public report: `https://tienthanh1234.github.io/arXiV-project/`. Deployment is pending verification; this address is not yet a verified submission URL.
+- Verified public report: [Group 09 arXiv Jupyter Book](https://tienthanh1234.github.io/arXiV-project/). Homepage, M1, M2, evidence/Colab pages, structured chart content and referenced assets were verified after deployment.
 - Assigned IDs: **2607.03694–2607.08693** (5,000 base IDs).
 - Official requirements: [Milestone 1](https://hcmus-cs-ta.github.io/lab-book/intro-ds/statement/crawling/), [Milestone 2](https://hcmus-cs-ta.github.io/lab-book/intro-ds/statement/parsing/).
 
@@ -99,10 +99,10 @@ The workflow triggers on pushes to `main` or manual dispatch. It installs Python
 
 In the repository's **Settings → Pages**, select **GitHub Actions** as the deployment source. `actions/configure-pages` supplies the Pages base path to MyST through `BASE_URL`; this is needed for the project subdirectory. Review the deployment run and verify the live homepage, both milestone pages and evidence pages before submitting its URL.
 
-Preparation/build validation is separate from publication. No working public URL is claimed until Actions deployment and public-route checks have succeeded.
+Pages is configured to use GitHub Actions. The [deployment workflow](https://github.com/TienThanh1234/arXiV-project/actions/workflows/deploy.yml) completed successfully and public-route/content/asset checks passed. This validates publication; it does not replace the missing Colab performance experiments.
 
 ## Submission
 
-For each milestone, the official instructions require the shared public source repository link and the public milestone report link through Moodle. Use the source branch above and the verified live report/milestone URLs once deployment is complete. Keep the missing Colab measurements and remaining corpus limitations visible.
+For each milestone, the official instructions require the shared public source repository link and the public milestone report link through Moodle. Submit the [source branch](https://github.com/ndkhoi2407/NMKHDL_Project_09/tree/24127121) together with the [M1 report](https://tienthanh1234.github.io/arXiV-project/m1-crawling/) or [M2 report](https://tienthanh1234.github.io/arXiV-project/m2-parsing/) for the corresponding milestone. The cumulative book homepage is https://tienthanh1234.github.io/arXiV-project/. Keep the missing Colab measurements and remaining corpus limitations visible.
 
 Build references: [MyST execution](https://mystmd.org/guide/execute-notebooks), [MyST GitHub Pages deployment](https://mystmd.org/guide/deployment-github-pages).

@@ -1,0 +1,10 @@
+{
+  "name": "hcmus-arxiv-report",
+  "private": true,
+  "scripts": {
+    "build": "myst build --html --execute --strict",
+    "start": "myst start --execute"
+  },
+  "devDependencies": { "mystmd": "1.12.0" },
+  "engines": { "node": ">=22" }
+}

@@ -9,6 +9,12 @@ kernelspec:
   name: python3
 ---
 
+**Full Name:** Nguyen Tien Thanh  
+**Student ID:** 24127121  
+**Class:** 26C08  
+**Group:** 09  
+
+---
 # Milestone 2 — Hierarchical Parsing and Standardization
 
 ## 1. Objectives

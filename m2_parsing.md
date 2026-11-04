@@ -11,7 +11,7 @@ kernelspec:
 
 **Full Name:** Nguyen Tien Thanh  
 **Student ID:** 24127121  
-**Class:** 26C08  
+**Class:** 24KHDL1  
 **Group:** 09  
 
 ---

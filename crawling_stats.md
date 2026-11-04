@@ -5,6 +5,13 @@ kernelspec:
   name: python3
 ---
 
+**Full Name:** Nguyen Tien Thanh  
+**Student ID:** 24127121  
+**Class:** 24KHDL1  
+**Group:** 09  
+
+---
+
 # Evidence audit and reproducibility
 
 This page reads only the small `m1_data/` and `m2_data/` exports. The original `data/` corpus is neither required nor published. Checks compare independent exported representations; they establish internal consistency, not a new crawl or a manual validation of every parsed sentence.

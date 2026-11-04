@@ -1,3 +1,7 @@
+**Full Name:** Nguyen Tien Thanh  
+**Student ID:** 24127121  
+**Class:** 26C08  
+**Group:** 09  
 ---
 jupytext:
   text_representation:
@@ -8,12 +12,7 @@ kernelspec:
   language: python
   name: python3
 ---
-**Full Name:** Nguyen Tien Thanh  
-**Student ID:** 24127121  
-**Class:** 26C08  
-**Group:** 09  
 
----
 # Milestone 1 — Crawling
 
 ## 1. Objectives
